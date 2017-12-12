@@ -2,5 +2,5 @@ abcde
 fghij
 klmno同じ修正
 pqrst
-uvwxyz
+uブランチ独自の修正z
 
